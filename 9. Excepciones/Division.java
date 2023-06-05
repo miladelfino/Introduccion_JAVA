@@ -1,12 +1,5 @@
 import java.util.Scanner;
 
-/**
- * @Documented Tema Excepciones
- * @dominio Codo a Codo Inicial 2022
- * @author Fernando Lucena
- * */
-
-
 /*
 * Realizaremos una función división, la dividiremos por 0 y observaremos el resultado.
 * */
